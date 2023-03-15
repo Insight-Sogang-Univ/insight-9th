@@ -26,12 +26,13 @@
 > git config -user.email''    
 2. 내 저장소로 fork하기
 3. 로컬 저장소에 다운받기
-> git clone ''    
-4. git에 파일을 추적하도록 하기
+> git clone ''   
+4. 변경할 내용 수정하기    
+6. git에 파일을 추적하도록 하기
 > git add .   
-5. 새로운 버전 생성하기
+7. 새로운 버전 생성하기
 > git commit -m''
-6. 원격 저장소로 push하기
+8. 원격 저장소로 push하기
 > git push
 
 
