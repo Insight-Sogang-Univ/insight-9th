@@ -40,10 +40,10 @@
 README.md
 code
     ㄴ itsnowkim             // 본인 git 아이디
-        ㄴ week1
+        ㄴ session1
             ㄴ example.ipynb // 과제 제출 파일
             ㄴ README.md     // 세션 전 사전 학습 내용 공부 정리 파일
-        ㄴ week2
+        ㄴ session2
             ㄴ example.ipynb // 과제 제출 파일
             ㄴ README.md     // 세션 전 사전 학습 내용 공부 정리 파일
 ```
