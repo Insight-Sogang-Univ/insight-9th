@@ -38,16 +38,43 @@
 ## 폴더 구조
 ```
 README.md
+homework
+    ㄴ session2              // 매 세션 과제 페이지
+        ㄴ example.ipynb     // 과제 파일
+    ...
 code
     ㄴ itsnowkim             // 본인 git 아이디
-        ㄴ week1
+        ㄴ session1
             ㄴ example.ipynb // 과제 제출 파일
             ㄴ README.md     // 세션 전 사전 학습 내용 공부 정리 파일
-        ㄴ week2
+        ㄴ session2
             ㄴ example.ipynb // 과제 제출 파일
             ㄴ README.md     // 세션 전 사전 학습 내용 공부 정리 파일
+        ...
 ```
 
+## 제출 양식
+**`pull request`** 를 보낼 때 아래의 양식을 지켜서 보내주세요!
+```
+pr 제목 : [session2] 제출자 과제 제출합니다.
+
+내용 : 해당 과제를 하면서 어려웠던 점이나 새로 알게 된 점 간단히 정리
+```
+
+ex)
+```
+[session2] 김현재 과제 제출합니다.
+
+titanic data를 선택하여 과제를 진행했습니다.
+pandas 문법은 아직은 익숙하지 않은 것 같습니다.
+하지만 기본적으로 python 문법과 비슷한 점이 많은 것 같아서 어느 정도 빠르게 배울 수 있었던 것 같습니다.
+
+merge, concate 하는 부분이 아직 미숙한 것 같습니다.
+앞으로 loc, iloc를 많이 쓸 것 같은데 많이 연습하겠습니다!
+
+질문
+titanic에서 3번째 과제를 다음과 같이 했는데, 답을 모르겠습니다ㅜㅠ
+```
 
 ## 기타
 - 사전 과제 필수 키워드에 대해서는 정리/리뷰 하셔야 합니다.
